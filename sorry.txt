@@ -1,1 +1,6 @@
-
+; 2022-03 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows8.1-kb5011564-x64_5a580cee56603bc7e278f24bbc1e28fed7ab1f71.msu
+; 2022-03 适用于 Windows 8.1 基于 x64 系统的仅安全更新
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows8.1-kb5011560-x64_878c623a64cec1be862f63c03f0a644e088949af.msu
+; 2022-03 适用于 Windows 10 Version 21H2 的 03 累积更新，适合基于 x64 的系统 
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows10.0-kb5011487-x64_2190163dcb84974d93ecdc32bdae277b57ebb95c.msu
